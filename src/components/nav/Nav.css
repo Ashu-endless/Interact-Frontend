@@ -1,0 +1,42 @@
+.InteractTitle {
+    color: white;
+    position: relative;
+    /* left: 50%; */
+    font-size: var(--rem);
+    transform: translate(-50%);
+    font-family: Anton;
+    top: 0;
+    margin: 0;
+}
+Nav {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    /* height: 8vh; */
+    /* background: #001220; */
+    border-radius: 5px;
+    display: flex;
+    border-bottom: #3f1580 2px solid;
+    justify-content: space-between;
+    /* align-content: stretch; */
+    height: fit-content;
+    /* justify-items: center; */
+    font-size: var(--rem);
+    color: white;
+    /* align-self: unset; */
+    padding: 5px;
+    align-content: center;
+    align-items: baseline;
+    padding-right: 2%;
+}
+.user-profile {
+    border-radius: 50%;
+    background-image: url(https://i.pinimg.com/474x/65/25/a0/6525a08f1df98a2e3a545fe2ace4be47.jpg);
+    background-size: cover;
+    height: var(--rem);
+    /* display: block; */
+    width: var(--rem);
+    /* width: 100%; */
+    /* position: relative; */
+}

@@ -1,0 +1,9 @@
+#Editor {
+    position: absolute;
+    top: 3rem;
+    right: 1rem;
+    left: 1rem;
+    bottom: 1rem;
+    background-color: #0c1c28;
+    border-radius: 5px;
+}

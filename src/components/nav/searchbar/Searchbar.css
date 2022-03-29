@@ -1,0 +1,17 @@
+#SearchDiv {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border: 1px #3f1580 solid;
+    border-radius: 5px;
+    color: white;
+}
+
+#SearchInput {
+    background: transparent;
+    border: none;
+    /* border: 1px #3f1580 solid; */
+    border-radius: 5px;
+    color: antiquewhite;
+    font-size: var(--rem);
+}
