@@ -37,6 +37,7 @@ Nav {
     height: var(--rem);
     /* display: block; */
     width: var(--rem);
+    display: block;
     /* width: 100%; */
     /* position: relative; */
 }

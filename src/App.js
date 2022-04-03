@@ -10,8 +10,8 @@ function App() {
     
     <Nav />
     <Routes>
-      <Route path='' element={<Home/>} />
-      <Route path='editor' element={ <Editor/> } />
+      <Route exact path='' element={<Home/>} />
+      <Route exact path='editor' element={ <Editor/> } />
     </Routes>
     </>
   );
