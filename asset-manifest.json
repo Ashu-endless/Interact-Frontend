@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Interact/static/css/main.397c3e06.css",
-    "main.js": "/Interact/static/js/main.fd16882e.js",
-    "static/js/787.d336d277.chunk.js": "/Interact/static/js/787.d336d277.chunk.js",
-    "index.html": "/Interact/index.html",
-    "main.397c3e06.css.map": "/Interact/static/css/main.397c3e06.css.map",
-    "main.fd16882e.js.map": "/Interact/static/js/main.fd16882e.js.map",
-    "787.d336d277.chunk.js.map": "/Interact/static/js/787.d336d277.chunk.js.map"
+    "main.css": "/Interact-Frontend/static/css/main.397c3e06.css",
+    "main.js": "/Interact-Frontend/static/js/main.2cca741d.js",
+    "static/js/787.d336d277.chunk.js": "/Interact-Frontend/static/js/787.d336d277.chunk.js",
+    "index.html": "/Interact-Frontend/index.html",
+    "main.397c3e06.css.map": "/Interact-Frontend/static/css/main.397c3e06.css.map",
+    "main.2cca741d.js.map": "/Interact-Frontend/static/js/main.2cca741d.js.map",
+    "787.d336d277.chunk.js.map": "/Interact-Frontend/static/js/787.d336d277.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.397c3e06.css",
-    "static/js/main.fd16882e.js"
+    "static/js/main.2cca741d.js"
   ]
 }
